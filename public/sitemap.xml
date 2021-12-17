@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      
+            <url>            
+            <loc>https://aniceteacher.com/terms-and-conditions</loc>              
+              <lastmod>2021-07-11T18:30:00.000Z</lastmod>              
+              <changefreq>yearly</changefreq>              
+              <priority>1</priority>              
+            </url>
+          
+            <url>            
+            <loc>https://aniceteacher.com/privacy-policy</loc>              
+              <lastmod>2021-07-11T18:30:00.000Z</lastmod>              
+              <changefreq>yearly</changefreq>              
+              <priority>1</priority>              
+            </url>
+          
+            <url>            
+            <loc>https://aniceteacher.com/about</loc>              
+              <lastmod>2021-09-22T18:30:00.000Z</lastmod>              
+              <changefreq>yearly</changefreq>              
+              <priority>0.2</priority>              
+            </url>
+          
+            <url>            
+            <loc>https://aniceteacher.com/connect</loc>              
+              <lastmod>2021-09-22T18:30:00.000Z</lastmod>              
+              <changefreq>yearly</changefreq>              
+              <priority>0.2</priority>              
+            </url>
+          
+            <url>            
+            <loc>https://aniceteacher.com/blog/programming</loc>              
+              <lastmod>2021-10-31T18:30:00.000Z</lastmod>              
+              <changefreq>monthly</changefreq>              
+              <priority>0.2</priority>              
+            </url>
+          
+            <url>            
+            <loc>https://aniceteacher.com/blog/programming/fun-with-c-and-cpp</loc>              
+              <lastmod>2021-10-31T18:30:00.000Z</lastmod>              
+              <changefreq>monthly</changefreq>              
+              <priority>0.2</priority>              
+            </url>
+          
+            <url>            
+            <loc>https://aniceteacher.com/blog/programming/fun-with-c-and-cpp/do-while-sum-of-range</loc>              
+              <lastmod>2021-08-18T07:29:11.000Z</lastmod>              
+              <changefreq>yearly</changefreq>              
+              <priority>1</priority>              
+            </url>
+                  
+    </urlset>
+  
